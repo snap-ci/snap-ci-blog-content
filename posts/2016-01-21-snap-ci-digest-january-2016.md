@@ -58,3 +58,6 @@ What is Enterprise and Evolutionary Architecture? - Erik Dornenburg
 
 [Your paper brain and your Kindle brain aren't the same thing](http://www.pri.org/stories/2014-09-18/your-paper-brain-and-your-kindle-brain-arent-same-thing)
 Neuroscience has revealed that humans use different parts of the brain when reading from a piece of paper or from a screen - T.J. Raphael
+
+ 
+Snap CI © 2017, ThoughtWorks

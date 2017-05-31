@@ -80,3 +80,6 @@ If you're interested in using Docker on Snap CI, [you can sign up here](https://
 
 [IBMResearchReport]: http://domino.research.ibm.com/library/cyberdig.nsf/papers/0929052195DD819C85257D2300681E7B/$File/rc25482.pdf "Performance comparison of Virtual Machines and Linux Containers"
 [UserNamespaces]: https://lwn.net/Articles/532593/ "User namespaces in Linux"
+
+ 
+Snap CI © 2017, ThoughtWorks

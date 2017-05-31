@@ -111,3 +111,6 @@ This history allow you to check all previous changes that got deployed and which
 With these examples I hope I have explained what differentiates Snap from similar offerings. The name and basic features appear less similar as soon as you start to dig deeper and compare other features. The practice of Continuous Integration is a subset of Continuous Delivery. However, a tool for doing CI cannot be trivially extended to support Continuous Delivery - even if it allows you to configure a deployment at the end of your build.
 
 This explicit focus on features that enable Continuous Delivery is the primary difference about Snap.
+
+ 
+Snap CI © 2017, ThoughtWorks

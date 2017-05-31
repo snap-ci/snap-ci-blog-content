@@ -44,3 +44,6 @@ mongod --version
 That's it! You've done it. If not, you can always [contact us](mailto:support@snap-ci.com) for help.
 
 Read more from our [From the Snap Support Team](https://blog.snap-ci.com/categories/support/) series.
+
+ 
+Snap CI © 2017, ThoughtWorks

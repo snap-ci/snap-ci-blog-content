@@ -54,3 +54,6 @@ Yes, Jenkins has marketed that Jenkins 2.0 has CI/CD pipeline support. Yet there
 So where does this leave us? Simply put, we have tried to make Snap CI the simplest, easiest continuous integration and continuous deployment tool out there. It's the solution for software engineering teams who want to spend their time coding, solving problems, building software and releasing code quickly and efficiently. If you want a best-of-breed tool designed specifically to help you integrate and deploy continuously, Snap CI will work for you. For teams who want to manage CI servers, becomes experts in a CI tool, work with clunky interfaces, play Lego with a bunch of plugins, Google forever to get answers, or create the world’s most intricate deployment pipeline - there’s other tools like Jenkins.
 
 By the way, if I’m wrong about something in this post, or I missed a “yeah but...” please comment and let me know. I'd love to understand how we can make Snap CI even better for you. 
+
+ 
+Snap CI © 2017, ThoughtWorks

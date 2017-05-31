@@ -60,3 +60,6 @@ I think people were excited to see a transport app specifically for Manchester, 
 ### What’s next from Tramchester?
 
 As the tram network continues to expand we need to look at usability again, the list of stations is getting very long! We are also looking at how other data sets could be loaded into the path finding solution, perhaps other cities or other types of transport.
+
+ 
+Snap CI © 2017, ThoughtWorks

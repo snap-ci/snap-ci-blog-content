@@ -13,3 +13,6 @@ You probably woke up this morning with a new idea for a web app. You want to bui
 Your team writes tests and run them locally - but you really can't be bothered to set up a CI server. Not even the 10 minutes it takes you to download one. Not the hour or so it will take you to get all the required libraries and dependencies installed. Not the 20 minutes it would take you to set up a build after all this. And you certainly do not want to baby sit the machine, managing upgrades and downtimes. That is the couple of hours a week that you just do not have - or even if you do, you would much rather spend learning a new  language or framework - or maybe even get some sleep?!
 
 If your web application development framework follows conventions and if deploying your application to production is a single Git command you run from your terminal, isn't it time your CI tool learnt about those conventions and decided to do the provisioning of the machine, configuring libraries and setting up your CI pipeline- all out of the box without you having to tell it the same things over and over again? Isn't it 2012 already?
+
+ 
+Snap CI © 2017, ThoughtWorks

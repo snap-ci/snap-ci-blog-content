@@ -69,3 +69,6 @@ $ bundle exec rake spec:smokes
 ```
 
 These are just a few examples for you to get an idea of the impact the changes may have on your build. You can make these changes right away and your build should continue to work just fine. In case you don't get a chance to update your configuration, we will run a migration that make sure your builds continue to work exactly as they do today. This change will go in effect on Wednesday, Nov 5th, 2014 around evening UTC. If you have any doubts or problems with the changes coming in please feel free to comment below or get in [touch with us]({{ site.link.contact_us }}).
+
+ 
+Snap CI © 2017, ThoughtWorks

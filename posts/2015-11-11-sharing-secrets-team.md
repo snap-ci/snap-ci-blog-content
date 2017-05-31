@@ -55,3 +55,6 @@ In the past we had used the multiple vaults feature of 1password and stored the 
 1password uses two different data formats. The old format is Agile Keychain and the new format is [OpVault](https://support.1password.com/opvault-design/). There seems to be a problem with the AgileBits format where some of the metadata from the file is accessible. I would recommend changing the data format to OpVault once you have 1password installed. You can follow the instructions mentioned [here](https://support.1password.com/switch-to-opvault/mac.html) to change the data format.
 
 Security is a rapidly evolving field and staying on top of it is a serious matter. We are happy to see the emergence of tools that make it easy for teams to do the right thing and do so easily. If you have any ideas or suggestions then please let us know in the comments section below.
+
+ 
+Snap CI © 2017, ThoughtWorks

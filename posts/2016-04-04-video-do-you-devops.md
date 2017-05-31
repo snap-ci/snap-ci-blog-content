@@ -25,3 +25,6 @@ Did you see our video of the Snap CI and GoCD teams doing their best DevOps? If 
 Verb
 * 1. to integrate both development and operations into modern dance form
 * 2. to get a failed build and the only solution is to move yourself in an un-choreographed jerking motion
+
+ 
+Snap CI © 2017, ThoughtWorks

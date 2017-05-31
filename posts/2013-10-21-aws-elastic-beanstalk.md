@@ -89,3 +89,6 @@ Now that you have the Deploy stage added to your pipeline, click the Save and Re
 ![elastic beanstalk dashboard]({% asset_path screenshots/aws-elastic-beanstalk/elastic-beanstalk-dashboard.png %}){: .screenshot}
 
 For more information see [AWS CLI reference](http://docs.aws.amazon.com/cli/latest/reference/), [Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html).
+
+ 
+Snap CI © 2017, ThoughtWorks

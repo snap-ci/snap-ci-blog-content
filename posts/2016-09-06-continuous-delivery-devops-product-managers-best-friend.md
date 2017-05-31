@@ -94,3 +94,6 @@ Alright, I’ll stop here. Honestly, there’s actually more reasons that I can 
 * [https://leanpub.com/buildqualityin](https://leanpub.com/buildqualityin)
 * [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2681909](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2681909)
 * [http://www.cio.co.uk/insight/r-and-d/three-views-on-continuous-delivery-3601806/](http://www.cio.co.uk/insight/r-and-d/three-views-on-continuous-delivery-3601806/)
+
+ 
+Snap CI © 2017, ThoughtWorks

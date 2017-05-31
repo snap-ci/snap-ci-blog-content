@@ -61,3 +61,6 @@ I hope this example has shown you how these techniques can help prove out produc
 
 
 Go forth, deliver and learn, with speed!
+
+ 
+Snap CI © 2017, ThoughtWorks

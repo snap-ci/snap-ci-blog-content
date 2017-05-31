@@ -40,3 +40,6 @@ Containers allow you to wrap your software up in a neat little package with ever
 Docker automates the deployment of an app as a container, which makes containers easier to use. You can build-run-test-deploy your app inside a container. They’re also open-source, and developers absolutely wet themselves over OSS. Apparently there are some security concerns with using containers, so that’s something to be aware of.
 
 So that’s my understanding of containers right now. I feel like I’ve barely scratched the surface, but as my job is requiring me to understand more about DevOps (specifically, I need to support CI/CD products), I imagine this won’t be the last time I work with and try to understand containers.
+
+ 
+Snap CI © 2017, ThoughtWorks

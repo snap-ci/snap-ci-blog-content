@@ -20,3 +20,6 @@ So in addition to having the ability to configure multiple deployments, you woul
 When combined these two features form a core part of creating a build pipeline in Snap.
 
 {% youtube XofmSr2WyAo 480 320 %}
+
+ 
+Snap CI © 2017, ThoughtWorks

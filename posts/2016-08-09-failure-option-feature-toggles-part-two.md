@@ -36,3 +36,6 @@ So what does failure look like on this project? Typically, a failure is when a f
 
 
 I hope this story has helped illustrate why these three lessons might be helpful as you work on your own software projects. In the third and final part of this series, I'll tell you some things I learned while working on Snap CI. Stay tuned.
+
+ 
+Snap CI © 2017, ThoughtWorks

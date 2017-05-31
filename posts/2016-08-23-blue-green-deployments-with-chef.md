@@ -49,3 +49,6 @@ Once these changes are made, the footprint of the infrastructure on the machine 
 ##### Summary
 
 The combination of parallel change and feature toggles is powerful and enables us to move forward in small, incremental steps while still making pretty invasive changes to how Snap works. We hope that this has given you some insight into how infrastructure changes happen on Snap. However, far more importantly, we hope that you find the upcoming changes to the Snap cache useful. After all, all the clever engineering tricks are not worth much if they don't result in a more pleasant build and deploy experience for our users. We hope this is one more step toward making that happen!
+
+ 
+Snap CI © 2017, ThoughtWorks

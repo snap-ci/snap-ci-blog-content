@@ -114,3 +114,6 @@ Although our example is simple, it shows how easy it is to create and configure 
 To better understand the concepts and practices presented in this article or to see a more complete and elaborate example, you can read the book [DevOps na Prática](https://casadocodigo.refersion.com/l/b84.1397), currently only available in Portuguese. The static website discussed in this article is live on [http://www.devopsnapratica.com.br](http://www.devopsnapratica.com.br/) and it has more information about the book's content (currently only available in Portuguese).
 
 _This post was originally published on ThoughtWorks Insights [Continuous Delivery Channel](https://www.thoughtworks.com/insights/blog/continuous-deployment-static-website-aws-snapci)
+
+ 
+Snap CI © 2017, ThoughtWorks

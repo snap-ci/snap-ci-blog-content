@@ -34,3 +34,6 @@ Over the last few weeks, we have spent time consolidating all these mechanisms o
 ![notification center]({% asset_path screenshots/notifications/notification-center.png %}){: .screenshot .big}
 
 We would love to hear what you think of the new consolidated notification center. Do you see all the channels you expected to see? See anything missing? Let us know in the comments below.
+
+ 
+Snap CI © 2017, ThoughtWorks

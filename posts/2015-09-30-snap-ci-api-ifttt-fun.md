@@ -31,3 +31,6 @@ It's a sort of a [Goldberg Machine](https://en.wikipedia.org/wiki/Rube_Goldberg_
 For this script to work you need [fswatch](https://github.com/emcrisostomo/fswatch), [jq](http://stedolan.github.io/jq/) and [cURL](http://curl.haxx.se/). Note that I save my API key in my keychain. If you're not using a Mac, you need to figure a way to keep it a secret.
 
 <span style="font-style:italic">This article was originally featured on [Marco Valtas' blog](http://marcovaltas.com/)</span>
+
+ 
+Snap CI © 2017, ThoughtWorks

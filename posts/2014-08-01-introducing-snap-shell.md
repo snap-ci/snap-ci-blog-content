@@ -30,3 +30,6 @@ Here's a quick video to demonstrate this feature:
 {% youtube 2E4civiDmtc 480 320 %}
 
 Read some of our other posts on [Snap Shell](https://blog.snap-ci.com/categories/snap-shell/).
+
+ 
+Snap CI © 2017, ThoughtWorks

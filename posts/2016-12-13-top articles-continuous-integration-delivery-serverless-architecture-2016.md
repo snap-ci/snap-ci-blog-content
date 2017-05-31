@@ -52,3 +52,6 @@ We’ve compiled our top 10 articles from 2016. Our [serverless architecture](ht
 #### #1 [Building Serverless Architecture with AWS Lambda, Snap CI and DynamoDB](https://blog.snap-ci.com/blog/2016/05/30/serverless-architecture-aws-lambda-dynamodb-applauze/) - Badri Janakiraman
 
 ![serverless architecture with aws lambda and applauze](/assets/images/screenshots/serverless-architecture/serverless-architecture-lambda-aws-dynamodb.jpg){: .screenshot .small}
+
+ 
+Snap CI © 2017, ThoughtWorks

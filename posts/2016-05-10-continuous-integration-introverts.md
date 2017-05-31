@@ -42,3 +42,6 @@ By breaking their changes into smaller pieces and deploying them separately, Ind
 ## When consistently applied, CI practices moves team communication forward
 
 By paying attention to the personalities of your teammates, you can make substantial improvements to their well-being as well as to overall productivity. You want to make sure that they are spending their energy on things that really matter. You also want to make sure that decisions are made based on what is best for the team overall, not just who is the best debater. When consistently applied, continuous integration practices help the team bring communication forward so team members can have simple, straightforward discussions and come to a shared understanding sooner.   
+
+ 
+Snap CI © 2017, ThoughtWorks

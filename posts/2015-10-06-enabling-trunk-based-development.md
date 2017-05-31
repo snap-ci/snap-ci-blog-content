@@ -130,3 +130,6 @@ Also, because there is no friction that comes with intermediate branches, this w
 
 There are cases, of course, where directly checking in to trunk might not be suitable.
 For example, if you are developing an open source project you might not be willing to give access to third-party developers to commit to your mainline. Or if in an organization, you don’t want to give other teams the access to directly make changes without going through review by the core team. In such cases, Pull Requests and [Integration pipelines](https://docs.snap-ci.com/working-with-branches/integration-pipelines/) can be suitable options and can be used in conjunction with TBD.
+
+ 
+Snap CI © 2017, ThoughtWorks

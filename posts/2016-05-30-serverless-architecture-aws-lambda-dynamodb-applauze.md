@@ -125,3 +125,6 @@ In case it is not obvious, there are a lot of moving parts to a system like this
 Our pleasure.  
 
 #### Special thanks to Mike Aleksiuk, Chris Turner, Chris Stevenson and Ian Carvell from Applauze for speaking with Snap CI.
+
+ 
+Snap CI © 2017, ThoughtWorks

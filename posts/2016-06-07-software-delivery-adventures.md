@@ -45,3 +45,6 @@ The band Van Halen had a [53-page document](http://www.thesmokinggun.com/documen
 If I spot any "brown M&M’s", I know that I will need to be careful and check a wide variety of related quality practices.
 
 As the these stories show, incentives and game theory can have a huge impact on the way that your team operates. These impacts can be both negative and positive, and you need to be careful that you don’t accidentally make things worse. I would encourage you to "Think Like a Freak" and apply these practices on your development team.   
+
+ 
+Snap CI © 2017, ThoughtWorks

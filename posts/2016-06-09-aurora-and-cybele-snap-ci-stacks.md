@@ -33,3 +33,6 @@ Caption: The [Cybele fountain](https://en.wikipedia.org/wiki/Cybele#/media/File:
 
 It's no coincidence that both stacks are named after female figures. The Snap team is comprised nearly equally of males and females, and our parent company, ThoughtWorks, has taken [many measures](http://www.afr.com/it-pro/taking-out-tokenism-why-some-people-are-changing-their-minds-on-quotas-20130306-jyfd0?mkt_tok=3RkMMJWWfF9wsRokvqrJZKXonjHpfsX56%2BUsXKexlMI%2F0ER3fOvrPUfGjI4DScpkI%2BSLDwEYGJlv6SgFS7nMMbFk37gPUhA%3D) to increase diversity and inclusion across all positions.
 We hope this sheds some light on why we chose the stack names we did. If you are not yet on Cybele but would like to be, please [contact Snap support](mailto:support@snap-ci.com).
+
+ 
+Snap CI © 2017, ThoughtWorks

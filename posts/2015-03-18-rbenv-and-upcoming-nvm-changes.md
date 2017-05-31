@@ -29,3 +29,6 @@ We've removed bower and grunt as part of the node installations since most users
 As and when new versions are released and available, they will automatically be available to Snap users. If a binary is not available, then you may get in touch with us, and we'll make it available ASAP.
 
 If you have any comments or tips to help us improve, let us know by dropping a comment below or [contact us]({{ site.link.contact_us }}) if you have any questions.
+
+ 
+Snap CI © 2017, ThoughtWorks

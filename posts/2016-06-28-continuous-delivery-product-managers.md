@@ -155,3 +155,6 @@ The Phoenix Project: A Novel about IT, DevOps, and helping your business win –
 
 
 * This article was originally published on [Mind the Product](http://www.mindtheproduct.com/2016/02/what-the-hell-are-ci-cd-and-devops-a-cheatsheet-for-the-rest-of-us/)
+
+ 
+Snap CI © 2017, ThoughtWorks

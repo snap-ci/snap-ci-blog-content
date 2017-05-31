@@ -76,3 +76,6 @@ Once the build completes, GitHub reflects the status of the build on the pull re
 I now know that the pull request can be safely merged to the master!
 
 <span style="font-style:italic">This article is Part 1 in a series from our upcoming e-Book "CD with Snap CI"</span>
+
+ 
+Snap CI © 2017, ThoughtWorks

@@ -85,3 +85,6 @@ c. Add locally generated private key as a secure file and click on save.
 In this example I'm using a sample *hello world*, pushing the hello.js file, and deploying to DigitalOcean Droplet. Ideally, you should generate all the deploy files [as an artifact](https://docs.snap-ci.com/pipeline/#artifact) and then use *scp* command for uploading. You can also store your deploy script in your GitHub repository.
 
 Hope this has been helpful. If you have questions, please comment below.
+
+ 
+Snap CI © 2017, ThoughtWorks

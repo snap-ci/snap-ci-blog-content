@@ -16,3 +16,6 @@ categories: infographic
 There are quite a few terms thrown around the Continuous Delivery arena:  Continuous Integration, Continuous Delivery, Continuous Deployment, CD, CI, and so on and so forth. It's easy to get confused. The two terms we see (erroneously) equated most frequently are Continuous Delivery and Continuous Deployment. Below is the easy infographic we designed to help people understand the differences between the two practices.
 
 ![infographic-difference-between-delivery_deployment](/assets/images/screenshots/infographic-continuous-delivery-deployment/infographic-difference-between-delivery_deployment.png){: .screenshot .big}
+
+ 
+Snap CI © 2017, ThoughtWorks

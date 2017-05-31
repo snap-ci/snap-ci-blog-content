@@ -53,3 +53,6 @@ ABOUT DEVOPSDAYS:
 DevOpsDays brings development, operations, QA, InfoSec, management, and leadership together to discuss the culture and tools to make better organizations and products. The events are a unique combination of presentation and open spaces which encourage discussions on a wide variety of topics.
 
 The original version of this press release can be found on [PR Newswire](http://www.prnewswire.com/news-releases/thoughtworks-snap-ci-and-gocd-showcase-innovation-in-continuous-delivery-at-devopsdays-300242131.html).
+
+ 
+Snap CI © 2017, ThoughtWorks

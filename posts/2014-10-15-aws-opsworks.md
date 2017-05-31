@@ -55,3 +55,6 @@ You can find the AWS credentials [here](https://console.aws.amazon.com/iam/home?
 
 
 That's it, it takes 3 simple steps to setup a deployment to your OpsWorks stack from Snap. Isn't it simple? Hope you enjoy deploying from Snap! I would love to hear if you have any comments or tips to make this experience even better. Leave your comments below or [contact us]({{ site.link.contact_us }}) if you have any questions.
+
+ 
+Snap CI © 2017, ThoughtWorks

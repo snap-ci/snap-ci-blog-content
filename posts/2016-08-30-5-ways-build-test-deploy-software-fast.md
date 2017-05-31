@@ -52,3 +52,6 @@ My advice is to use CI on all branches and pull requests to get faster feedback 
 
 
 I hope this has been useful. To recap, my five CI/CD strategies for faster deployments and better automation are to integrate and deploy frequently, automate relentlessly, run tests in parallel, use deployment pipelines, and understand how to use CI on all branches and pull requests.
+
+ 
+Snap CI © 2017, ThoughtWorks

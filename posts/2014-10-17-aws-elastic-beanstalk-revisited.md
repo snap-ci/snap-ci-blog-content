@@ -54,3 +54,6 @@ Have a look at our [docs](http://docs.snap-ci.com/deployments/aws-deployments/#u
 ![AWS console for Application name]({% asset_path screenshots/aws-elastic-beanstalk-revisited/elastic-beanstalk-dashboard-deployed@2x.png %}){: .screenshot .big}
 
 As always, I would love to hear if you have any comments or tips to make this experience even better. Leave your comments below or [contact us]({{ site.link.contact_us }}) if you have any questions.
+
+ 
+Snap CI © 2017, ThoughtWorks

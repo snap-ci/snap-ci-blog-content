@@ -18,3 +18,6 @@ Our most popular posts on The Pipeline are the series on Continuous Deployment S
 <div align="center"><iframe src="//www.slideshare.net/slideshow/embed_code/key/cWM0p99rZMWJsJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe></div>
 
 Download it for free [here](http://www.slideshare.net/ThoughtWorks/continuous-deployment-strategies)
+
+ 
+Snap CI © 2017, ThoughtWorks

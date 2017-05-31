@@ -25,3 +25,6 @@ Lastly, I may not be in a position to merge pull-requests as soon as they come i
 To help with this, we not only say _when_ Snap declared the pull-request healthy; we also let you re-run the build when you are ready to merge the pull-request - just to make sure that things are still kosher. Read more about this in [our documentation](http://docs.snap-ci.com/working-with-branches/pull-requests/).
 
 What other collaboration workflows do you have that you think could be made more productive by Snap? Let me know in the comments below!
+
+ 
+Snap CI © 2017, ThoughtWorks

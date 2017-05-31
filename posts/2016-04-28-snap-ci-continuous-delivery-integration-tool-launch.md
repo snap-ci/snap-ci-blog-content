@@ -39,3 +39,6 @@ DZone "State of Continuous Delivery" 2015 report and survey: [https://dzone.com/
 ### About ThoughtWorks
 
 ThoughtWorks aims to push software development teams to think and work differently. We were leaders in continuous integration and created the first continuous integration server, Cruise Control, in 2001. From there, we pushed the boundaries of CI into what would become Continuous Delivery. We’ve been working to make Continuous Delivery common practice for the last decade. We didn't just write the book on Continuous Delivery. We also made the best build and deployment pipelines for on-premise and cloud in GoCD and Snap.
+
+ 
+Snap CI © 2017, ThoughtWorks

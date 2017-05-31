@@ -56,3 +56,6 @@ Katie Rogers from the NYT talks about what we all know; internet users are all m
 
 [This Is Our Reality: Why I Couldn't Hold Back About the Bay Area's Real Transit Problem](http://www.popularmechanics.com/technology/infrastructure/a20019/taylor-huckaby-bart/)
 BART insider, Taylor Huckaby, decided to get takeover the transportation system's official Twitter account. What happened next was a truth bomb.
+
+ 
+Snap CI © 2017, ThoughtWorks

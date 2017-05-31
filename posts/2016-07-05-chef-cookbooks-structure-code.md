@@ -61,3 +61,6 @@ In this model it is impossible to make changes to the code along with changes to
 There are some alternatives to these options. At least in the Chef world, Berkshelf provides a mechanism for having a shared repository of cookbooks, but including only the ones you want for each service in each repository. A poor-man's version of including cookbooks in from a central repository can also be done by moving to using Git sub-modules. However, sub-modules present an additional complexity in and of themselves and it is worth examining if the cost is worth the benefits.
 
 So based on these choices, how do you structure your cookbooks? Let me know in the comments below. I look forward to hearing other stories!
+
+ 
+Snap CI © 2017, ThoughtWorks

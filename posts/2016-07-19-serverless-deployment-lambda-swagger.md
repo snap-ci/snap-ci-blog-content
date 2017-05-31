@@ -70,3 +70,6 @@ You can test a lot of the Lambda stuff using the mock context library and Mocha,
 If you didn't use any tooling, you didn't use anything like Snap CI or any of the unit tests, it would be pretty easy to get stuck. If you were making changes to the API Gateway just using the clunky UI and... It's probably true of all development but it felt particularly bad here because you have code in places that you don't even know it's there. I think getting a deployment process in place for stuff like API Gateway and Lambda is probably even more critical than most places where you can zip up a project-and with lots of small serverless microservices you can’t just hop on a server and see what’s running.
 
 ##### Special thanks to Richard Coombes from The Tab for speaking with us. You can read his related piece, ["Building a testable/continuously deployed API using Amazon API Gateway,"](https://medium.com/@coomberc/building-a-testable-continuously-deployed-api-using-amazon-api-gateway-3654addd5a0e#.9n1cav9jn) on Medium.
+
+ 
+Snap CI © 2017, ThoughtWorks

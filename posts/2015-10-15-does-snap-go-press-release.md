@@ -53,3 +53,6 @@ The DevOps Enterprise Summit is co­sponsored by Gene Kim (IT Revolution) and El
 Press Contact:
 Louda Peña
 lbaca@thoughtworks.com
+
+ 
+Snap CI © 2017, ThoughtWorks

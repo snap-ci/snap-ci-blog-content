@@ -52,3 +52,6 @@ While a lot of the teams we spoke to use AWS extensively, there is nothing about
 * [https://serverlesscode.com/post/serverless-conf-is-here/](https://serverlesscode.com/post/serverless-conf-is-here/)
 
 * [https://pragprog.com/book/brapps/serverless-single-page-apps](https://pragprog.com/book/brapps/serverless-single-page-apps)
+
+ 
+Snap CI © 2017, ThoughtWorks

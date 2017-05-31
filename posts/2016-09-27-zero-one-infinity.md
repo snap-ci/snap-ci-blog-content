@@ -43,3 +43,6 @@ The second example happened more recently when we were discussing the implementa
 In the above example, the three options correspond to the zero (no cache), infinity (everything cached) and one (just the $HOME) conditions respectively. As you can see, sometimes it turns out that picking "one and only one" is a perfectly valid option.
 
 If you have had examples where you have deployed this thinking, do share it in the comments. We would love to hear from you.
+
+ 
+Snap CI © 2017, ThoughtWorks

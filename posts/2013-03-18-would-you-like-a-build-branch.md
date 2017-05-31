@@ -17,3 +17,6 @@ However, all these changes happen on a new branch. The code changes, along with 
 To help with this, Snap now has the ability to clone an existing build pipeline, but point it at a different source tree/branch. Within minutes, your new patch can be tested, integrated and pushed out to production.
 
 {% youtube ZmubQW03K1U 480 320 %}
+
+ 
+Snap CI © 2017, ThoughtWorks

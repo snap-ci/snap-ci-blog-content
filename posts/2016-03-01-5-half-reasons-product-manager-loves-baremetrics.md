@@ -40,3 +40,6 @@ They run a SaaS business, too. They share their learning on their blog. While so
 Of course I have a list of things I want them to do to save me more time and energy, such as customizable date ranges, a customizable dashboard, plan settings that stick, and plan ratio numbers, just to name a few. Because I’m a passionate user, and a product person, I have needs that still not being meet. Despite that, I am super happy with the time and energy I have saved so far. On balance, I’ll deduct half a bullet point for this one, just to manage your expectations. It’s not a [moon on a stick](https://www.youtube.com/watch?v=ERDUbAv8Qz0) after all!
 
 So I just told you why Baremetrics was an awesome reporting tool for SaaS product managers. Why not tell me some other tools should I be using?
+
+ 
+Snap CI © 2017, ThoughtWorks

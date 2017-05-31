@@ -31,3 +31,6 @@ As your confidence in the deployment improves, you can deploy your application t
 ## Long running migration phase
 
 Because one or more versions of your application may be running in production for some period of time, your application and its components (webservices, microservices, database) needs to be backward-compatible so that it works with at least one or two previous versions of your application. This [Parallel-Change Pattern](http://martinfowler.com/bliki/ParallelChange.html) is a simple and effective way to implement backward-incompatible changes between application interfaces.
+
+ 
+Snap CI © 2017, ThoughtWorks

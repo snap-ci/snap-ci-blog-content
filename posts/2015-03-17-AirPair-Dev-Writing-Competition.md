@@ -29,3 +29,6 @@ Submit your posts here: [https://www.airpair.com/100k­writing­competition](htt
 And don't forget to tell us about your posts so we can share them with our audiences too. This is a great opportunity to stretch your skillset AND gain a following while winning cash. Win-win-win.
 
 Never done social authoring before? Got [questions](https://www.airpair.com/100k-writing-competition/faq)? AirPair has an [easy how-to](https://www.airpair.com/social-authoring) to help you begin. Looking forward to reading all your awesome contributions!
+
+ 
+Snap CI © 2017, ThoughtWorks

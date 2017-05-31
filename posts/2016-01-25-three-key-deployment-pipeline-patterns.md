@@ -35,3 +35,6 @@ It's not uncommon for teams to practice Continuous Integration on small parts of
 Don't feel like you need to emulate the often seen business diagram of pipelines that show unit-test, then functional tests, then security tests etc. The purpose of those diagrams is to show intent, not implementation. If you're able, run as much as possible at the same time for faster feedback.
 
 This article originally appeared in the DZone Continuous Delivery Guide. You can download the guide for free [here](https://dzone.com/guides/continuous-delivery-3).
+
+ 
+Snap CI © 2017, ThoughtWorks

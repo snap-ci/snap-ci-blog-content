@@ -19,3 +19,6 @@ Need to get away? Seattle is lovely in the summer (usually!) and our own [Jeff  
 The DevOps Roadtrip in Seattle is a half-day event that will share "real-life DevOps implementation stories from local companies" and provide an opportunity for attendees to ask questions. Material should be appropriate for everyone, from developers to CTOs.
 
 The event is free, but limited to 100 attendees. So [sign up soon](http://bit.ly/250fd4F) if you're interested in attending. Hope to see you there.
+
+ 
+Snap CI © 2017, ThoughtWorks

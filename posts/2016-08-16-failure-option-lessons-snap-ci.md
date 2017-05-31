@@ -30,3 +30,6 @@ Because we are deploying a large number of packages to multiple operating system
 * Trust no one. Make your own local backups.
 
 Since failure is an inevitable part of building and operating software, remember that you can take steps now to make it better. You can decrease the likelihood of failure by automating everything and practicing important tasks, so there are no surprises. You can also make the failures less dangerous by having a plan and automated way to implement that plan. Having fewer failures that hurt less sounds like a victory to me.
+
+ 
+Snap CI © 2017, ThoughtWorks

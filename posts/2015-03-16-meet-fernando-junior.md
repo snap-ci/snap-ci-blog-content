@@ -35,3 +35,6 @@ I want Snap to be a well-known, reliable service for people who don't have time 
 #### What's your favorite part of your workday?
 
 I really enjoy getting feedback from clients. It's nice when the client is very happy, and then two weeks later they're buying it. It's very rewarding.
+
+ 
+Snap CI © 2017, ThoughtWorks

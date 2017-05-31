@@ -39,3 +39,6 @@ On the other hand, LXC now has [support for user namespaces](https://www.stgrabe
 Due to these considerations, we selected [unprivileged LXC containers](https://linuxcontainers.org/lxc/getting-started/#creating-unprivileged-containers-as-a-user) for build machines on top of which users will be able to build and run Docker containers.
 
 *If you’re interested in using Docker on Snap CI, [sign up here](https://orca.snap-ci.com/).*
+
+ 
+Snap CI © 2017, ThoughtWorks

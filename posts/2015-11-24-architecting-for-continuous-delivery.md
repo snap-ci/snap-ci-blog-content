@@ -151,3 +151,6 @@ Thus, the deployment pipeline is the backbone that provides the right primitives
 Continuous Delivery is not just about automating deployments. The goal is to be able to release software reliably and without friction. Architectural choices play a huge role in achieving that state. Adopting the deployment pipeline to model your entire process can provide the visibility required to address gaps sooner rather than later.
 
 <span style="font-style:italic">Snap CI and Go.CD are both products from ThoughtWorks. Snap CI is the hosted CI/CD service for repo based pipelines that have the essential capabilities for small teams working on cloud. Go.CD is an on-premise tool that supports complex pipeline dependencies that is useful for large teams and enterprises.</span>
+
+ 
+Snap CI © 2017, ThoughtWorks

@@ -94,3 +94,6 @@ The Stage History view can help you determine just that and help you to immediat
 ![stage history]({% asset_path screenshots/multi-stage-builds/stage_history.png %}){: .screenshot .big}
 
 I hope you now that you've read this you have a better picture of how to leverage stages in your Snap CI pipelines. Feel free to reach out to us in case of questions or feedback.
+
+ 
+Snap CI © 2017, ThoughtWorks

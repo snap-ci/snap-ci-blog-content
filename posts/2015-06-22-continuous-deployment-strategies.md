@@ -68,3 +68,6 @@ This technique can also be used to do some interesting multi-variant testing and
 ## Next steps
 
 In my next post, I'll get into the implementation techniques of blue/green deployments. A subsequent post will talk about implementing canary releases. Hope you will find this series very useful.
+
+ 
+Snap CI © 2017, ThoughtWorks

@@ -82,3 +82,6 @@ In future iterations we will add stages to check to see if the deck has an inval
 You can check out translation tools at the [Google Play store](https://play.google.com/store/apps/details?id=org.mercycorps.translationcards) and follow them at the [World Humanitarian Summit](https://storify.com/storybyoliver/translation-cards-coverage-on-twitter), and the ICT4D Summit in Nairobi.
 
 Photo credit: Translation Cards being used in the field (credit: [warnes@unhcr.org](mailto:warnes@unhcr.org), UNHCR)
+
+ 
+Snap CI © 2017, ThoughtWorks

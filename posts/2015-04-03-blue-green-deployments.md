@@ -45,3 +45,6 @@ This particular approach is not recommended for changing public DNS records beca
 This approach is a combination of the two techniques we've seen so far.
 
 In this technique, instead of changing public DNS records, we'll change internal (private) DNS records. Since the internal network and the DNS server can be managed and configured to respect TTLs, this approach works a lot better than changing public DNS records.
+
+ 
+Snap CI © 2017, ThoughtWorks

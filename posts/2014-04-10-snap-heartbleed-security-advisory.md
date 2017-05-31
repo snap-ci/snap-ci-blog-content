@@ -33,3 +33,6 @@ We believe we have taken all necessary precautions to get Snap secure for now. I
 
 
 Stay safe!
+
+ 
+Snap CI © 2017, ThoughtWorks

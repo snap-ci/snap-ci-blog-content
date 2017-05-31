@@ -92,3 +92,6 @@ So in general when you want to package and distribute your application as compon
 In the next article, we will look at the security aspects of running containers. Stay tuned!
 
 A version of this article originally appeared on [RisingStack](https://blog.risingstack.com/operating-system-containers-vs-application-containers/)
+
+ 
+Snap CI © 2017, ThoughtWorks

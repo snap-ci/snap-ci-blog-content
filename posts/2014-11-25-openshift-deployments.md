@@ -44,3 +44,6 @@ git push ssh://ABCDEFGHIJK123@example.yourdomain.rhcloud.com/~/git/example.git/
 ```
 
 Re-run the build, check your logs, and it should deploy. Good luck!
+
+ 
+Snap CI © 2017, ThoughtWorks

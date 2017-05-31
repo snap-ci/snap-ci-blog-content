@@ -39,3 +39,6 @@ We would keep at it until the users were happy, and we were ready to turn the ap
 * Get good at rolling forward quickly
 
 I hope this story has helped illustrate why these three lessons might be relevant to your software projects as well. I'll tell you some things I learned while working on an agile project management application (Mingle) and a continuous integration and deployment tool (Snap CI) in the second and third parts of this series.
+
+ 
+Snap CI © 2017, ThoughtWorks

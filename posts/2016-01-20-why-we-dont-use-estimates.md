@@ -66,3 +66,6 @@ That’s our secret sauce. We don’t use estimates to guide our day-to-day work
 ## To estimate or not to estimate, that is the question ##
 
 To estimate or not to estimate? That’s the question and there's no easy answer. In this post, we've at least shown that it’s *possible* to manage a product without using estimates. Deciding if and when we should estimates, or not, is a tough task and we are constantly rethinking our process, which we will detail in another blog post. That said, we would love to hear from you. How do you handle estimates on your team?
+
+ 
+Snap CI © 2017, ThoughtWorks

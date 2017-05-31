@@ -77,3 +77,6 @@ The team will continue to investigate the upgrade to the newest versions of Ruby
 Our experience using Canary Releases proved to be successful and clients can now consider this as an option when they have a risky releases planned.
 
 This post was originally published on [ThoughtWorks Insights](http://www.thoughtworks.com/insights/blog/how-deliver-rails-upgrade-using-canary-release) Continuous Delivery channel.
+
+ 
+Snap CI © 2017, ThoughtWorks

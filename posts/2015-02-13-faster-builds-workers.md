@@ -19,3 +19,6 @@ You can read more about this feature in our [documentation]({{ site.link.docs }}
 ![bigger workers]({% asset_path screenshots/bigger-workers/bigger-worker-configuation.png %}){: .screenshot .big}
 
 As always, we would love to hear if you have any comments or tips to make your builds even better. Leave your comments below or [contact us]({{ site.link.contact_us }}) if you have any questions.
+
+ 
+Snap CI © 2017, ThoughtWorks

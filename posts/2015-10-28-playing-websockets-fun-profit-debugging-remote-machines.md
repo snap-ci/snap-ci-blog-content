@@ -162,3 +162,6 @@ This is a simple example that shows some of the interesting applications one cou
 To see how this simple example could work when the rough edges have been smoothed out, check out Snap's [snap-shell](http://blog.snap-ci.com/blog/2014/08/11/introducing-snap-shell/) feature.
 
 <span class = "italic-text">This post was originally published on [ThoughtWorks Insights](https://www.thoughtworks.com/insights/blog/playing-websockets-fun-and-profit-debugging-remote-machine) Technology channel.</span>
+
+ 
+Snap CI © 2017, ThoughtWorks

@@ -72,3 +72,6 @@ This means that you can control your release cycle and decide what is getting pu
 
 
 So that’s it! That is your very basic introduction to CD. It’s just a way to automate some of the steps that your code goes through when you’re developing software and gives you control over your release schedule. Not so intimidating after all :)
+
+ 
+Snap CI © 2017, ThoughtWorks

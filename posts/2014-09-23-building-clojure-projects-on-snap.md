@@ -48,3 +48,6 @@ In a minute or two, the build completes and you can see the test results.
 Of course, this is just the start. You can use Snap to extend your build in a lot of different directions from here. You can pack and release the jars. If you were building an application, you can configure deployments following the initial stage. See the [What's next section](http://docs.snap-ci.com/getting-started/#whats-next) of our documentation for details on some of these!
 
 Note: The first build usually runs slightly longer as it needs to download all dependent jars from either maven-central or clojars. These jars are automatically cached and subsequent runs will run much faster!
+
+ 
+Snap CI © 2017, ThoughtWorks

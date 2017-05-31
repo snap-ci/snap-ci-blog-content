@@ -117,3 +117,6 @@ test:
   "S3": "S3::FakeS3"
   "Github": "Github::FakeGithub"
 ```
+
+ 
+Snap CI © 2017, ThoughtWorks

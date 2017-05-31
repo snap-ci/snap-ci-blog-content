@@ -53,3 +53,6 @@ For example, our product Snap, which is a continuous delivery in the cloud, is d
 This article was originally published on the [Mingle blog](https://www.thoughtworks.com/mingle/news/scaled-agile/2016/03/21/scaling-agile-continuous-delivery-chad-suzie.html) with minor edits for relevance.
 
 (This podcast was created and published by TechnologyAdvice, an Inc. 5000 company looking to help buyers find the best project management software, payroll systems, and more. Interview conducted by Josh Bland. If you enjoyed this topic, please subscribe and rate B2B Nation: IT Edition on iTunes. Find out more about Bluetooth World at http://www.bluetoothworld.com.)
+
+ 
+Snap CI © 2017, ThoughtWorks

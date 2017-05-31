@@ -19,3 +19,6 @@ In order to assist with making your tests go faster, we have provided a [ruby ge
 If you are not running a ruby project, don't worry, we provide a quick howto on how you can go about quickly [splitting your test suite]({{ site.link.docs }}speeding-up-builds/test-parallelism/).
 
 As always, we would love to hear if you have any comments or tips to make your builds even better. Leave your comments below or [contact us]({{ site.link.contact_us }}) if you have any questions.
+
+ 
+Snap CI © 2017, ThoughtWorks

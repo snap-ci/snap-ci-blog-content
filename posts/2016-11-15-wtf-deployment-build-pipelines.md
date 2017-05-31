@@ -30,3 +30,6 @@ Speaking of speed, that’s another good reason for choosing a pipeline over oth
 Pipelines also reduce the risk of your deployment breaking something, because you can test each commit in increasingly more production-like environments. By the time the commit makes it to the end of the pipeline, you can feel confident about deploying to prod. No more waking up at 3am in a cold sweat because someone’s latest commit “worked on their local machine.”
 
 Have we won you over yet? Are you ready to set up your first deployment pipeline? [*cue Mario music*](https://youtu.be/N9Lgapjt7hE)
+
+ 
+Snap CI © 2017, ThoughtWorks

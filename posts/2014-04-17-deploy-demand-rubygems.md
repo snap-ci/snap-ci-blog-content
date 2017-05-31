@@ -17,3 +17,6 @@ When setting up a build for your Ruby gem on Snap (we detect the presence of a `
 This functionality can be combined with [Automatic Branch Tracking](/blog/2013/11/07/automatic-branch-tracking-and-integration/) to release from a named branch instead too, though in this case, you would need to configure the `Release` stage manually.
 
 Following on the heels of [yesterday's announcement](https://bit.ly/1qAIUVJ), since most Ruby gems are Open Source or at least public, you can start using this today for free!
+
+ 
+Snap CI © 2017, ThoughtWorks

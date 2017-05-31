@@ -37,3 +37,6 @@ Snap offers you the ability to diagnose a build, and making it a lot more straig
 Sometimes you want to quickly investigate a stage failure. Changing the configuration and running a whole pipeline run can be cumbersome. Snap provides a "stage debug re-run" functionality which aims to help solve these issues. When you see the failed stage, you can click the bug icon to get more information on what's causing the failure. For more, you can watch our [walk-through video](https://blog.snap-ci.com/blog/2016/01/12/snap-shell-debugger-feature/).
 
 ![snap-shell](/assets/images/screenshots/from-support-desk/failed-stage-debugging.png){: .screenshot .big}
+
+ 
+Snap CI © 2017, ThoughtWorks

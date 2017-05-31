@@ -81,3 +81,6 @@ Our goal for a lot of this was to outsource the load and the demand, and we've a
 
 ----
 Thanks to [Chris Turner](https://www.linkedin.com/in/bestfriendchris) and [Ian Carvell](https://www.linkedin.com/in/ian-carvell-5a75b81) from Applauze for sharing their serverless journey with us. In the next part of this interview, will we discuss how the Applauze team tackled their next serverless architecture challenge, and how they test and deploy their serverless architecture using tools like Snap CI.
+
+ 
+Snap CI © 2017, ThoughtWorks

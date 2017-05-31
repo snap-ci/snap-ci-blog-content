@@ -21,3 +21,6 @@ Watch this quick video on how to use the <a href="https://docs.snap-ci.com/getti
 <script src="//fast.wistia.net/assets/external/E-v1.js" async></script></div>
 
 Read some of our previous posts on [Snap Shell](https://blog.snap-ci.com/categories/snap-shell/).
+
+ 
+Snap CI © 2017, ThoughtWorks

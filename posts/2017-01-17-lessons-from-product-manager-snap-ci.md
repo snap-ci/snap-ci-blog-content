@@ -51,3 +51,6 @@ The saying “build it and they will come” is something many people in the tec
 
 #### Takeaway:
 You need to invest in understanding your user, building the right product and telling the right people. Without a holistic and complete plan for your business, your great idea might never get off the ground. And 2017 doesn’t need any of those disappointments.
+
+ 
+Snap CI © 2017, ThoughtWorks

@@ -73,3 +73,6 @@ Enter "Build" in "STAGE NAME" and "./sbt clean test" in "Tasks to be executed".
 Click "Create Project"
 
 That’s all there is to it. Snap will now monitor your repository and run builds for all commits. Snap has a lot more to offer from CCTray, HipChat and Campfire build notifications to manual gated deployments to production environments. Also, we’re just getting warmed up. If there’s a feature you’d like to see or if you just want to say hi feel free to [contact us]({{ site.link.contact_us }}).
+
+ 
+Snap CI © 2017, ThoughtWorks

@@ -21,3 +21,6 @@ Not anymore.
 We are glad to announce that you can now pin such variables just like any command. This has long been requested and we hope that it makes managing build configuration easier for users.
 
 More details can be found on our [docs](https://docs.snap-ci.com/pipeline/#environment-variables%23global-environment-variables).
+
+ 
+Snap CI © 2017, ThoughtWorks

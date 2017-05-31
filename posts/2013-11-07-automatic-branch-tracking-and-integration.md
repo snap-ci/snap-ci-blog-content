@@ -52,3 +52,6 @@ We hope that you find this useful.
 Note: We are aware that the integration pipeline feature does not address two other possible issues. If multiple members each have a feature branch, there may be some interest in nominating multiple integration targets instead of just one.
 
 In addition, there is definitely a case to be made for triggering the integration pipeline not just for feature branch changes - but also any time the integration target changes. We have some ideas around resolving both of these issues, but in the spirit of releasing early and often, we thought we'ed throw this out there first and see what you have to say about it before moving on to solving those problems.
+
+ 
+Snap CI © 2017, ThoughtWorks

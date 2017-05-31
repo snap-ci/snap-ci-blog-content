@@ -80,3 +80,6 @@ Their director said she wanted give this app to other organizations. We hope tha
 
 
 ##### [^1]: This Flag Day was a joint effort benefiting both DPA and the Muscular Dystrophy Association Singapore.
+
+ 
+Snap CI © 2017, ThoughtWorks

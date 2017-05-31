@@ -23,3 +23,6 @@ At some point in your deployment process, you’re going to need more. It doesn�
 Native deployment pipelines are also necessary to create a complete and vital experience for the software engineer. ThoughtWorks prioritizes not just making excellent software, but industry changing software - that's why Snap has a deployment pipeline built in and not created from a tangled mess of plugins.
 
 So why not try Snap over Jenkins and see why ThoughtWorks (and us at Snap!) says "Hold" to Jenkins as a deployment pipeline.
+
+ 
+Snap CI © 2017, ThoughtWorks

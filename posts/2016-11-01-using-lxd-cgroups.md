@@ -241,3 +241,6 @@ So just to recap, we were able to launch an LXC container and set a limit on the
 
 
 _This post was originally published on [Kyle Olivo's Blog](http://kyleolivo.com/dev/2016/08/21/lxd-and-cgroups/)_
+
+ 
+Snap CI © 2017, ThoughtWorks

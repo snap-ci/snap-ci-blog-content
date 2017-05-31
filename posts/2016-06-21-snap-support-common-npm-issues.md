@@ -77,3 +77,6 @@ grunt
 ```
 
 We hope this will be helpful to you as you navigate running builds from Snap. [Read more](https://blog.snap-ci.com/categories/support/) articles from our support desk.
+
+ 
+Snap CI © 2017, ThoughtWorks

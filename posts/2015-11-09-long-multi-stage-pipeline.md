@@ -27,3 +27,6 @@ Last week, we rolled out a more responsive interface for our pipeline history pa
 This is, of course, a tiny fix. We wanted to give better experiences to affected users even as we wrap up efforts on getting [Docker](https://blog.snap-ci.com/categories/docker/) out in Beta and double our build worker capacity to keep up with recent user growth. Soon after all that is done, we will bring on more usability improvements including improvements on the current layout!
 
 What do you think of our project pipeline UI? Feel free to send any suggestions or feature requests to [support@snap-ci.com](mailto:support@snap-ci.com).
+
+ 
+Snap CI © 2017, ThoughtWorks

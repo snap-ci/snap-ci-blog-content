@@ -112,3 +112,6 @@ In future blog posts we hope to share more findings from other research studies 
 We are also open to your feedback. Was this article helpful? Old news? Inspiring? Let us know how we can improve our tools, techniques, and how we share information. You can comment below or tweet us at [@emilyeatskale](https://twitter.com/@emilyeatskale) and [@pm_suzie](https://twitter.com/@pm_suzie).
 
 ###### Footnote: [^1]: Our standard definition for continuous integration in this study was set as “Everyone merges to mainline/master/trunk at least once a day. Each merge is built and tested on an integration machine.”
+
+ 
+Snap CI © 2017, ThoughtWorks
